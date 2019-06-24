@@ -35,7 +35,7 @@ npm install halogen --save
 
 ```javascript
 var Loader = require('halogen/PulseLoader');
-var Example = React.createClass({
+var Example = createReactClass({
   render: function() {
     return (
       <Loader color="#26A65B" size="16px" margin="4px"/>

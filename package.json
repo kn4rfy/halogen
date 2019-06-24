@@ -2,7 +2,7 @@
   "name": "halogen",
   "version": "0.2.0",
   "description": "A collection of loading spinners with React.js",
-  "main": "Halogen.js",
+  "main": "./src/Halogen.js",
   "scripts": {
     "prettier": "prettier --write --single-quote --no-semi --trailing-comma es5 --print-width 100 --tab-width 4 --use-tabs \"src/**/*.js\"",
     "lint": "eslint src",
